@@ -1,9 +1,8 @@
 name: Update docs for release
 on:
   push:
-    branches: [ release-* ]
-  pull_request:
-    branches: [ master ]
+    branches:
+      - release-*
 jobs:
   prepare-dist:
     runs-on: ubuntu-latest
