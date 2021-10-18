@@ -88,6 +88,7 @@ const Steps = ({ collapse, complete = false, onStepClick, step = 0, steps = [], 
               onClick={() => onStepClick(index)}
               className={buttonClasses}
             >
+              skalfjldkjf
               {stepContent}
             </Button>
           ) : (
