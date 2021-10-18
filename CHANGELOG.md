@@ -1,5 +1,27 @@
 # Change Log
 
+## [6.8.0](https://www.github.com/davidacevedo/react-gears/compare/v6.7.8...v6.8.0) (2021-10-18)
+
+
+### Features
+
+* Add react-gears-list ([f74bf6b](https://www.github.com/davidacevedo/react-gears/commit/f74bf6ba8651a13a099b7051f5b4007a35c89b1a))
+* add some pretty obvious change ([a35d029](https://www.github.com/davidacevedo/react-gears/commit/a35d029f4d3d2493711f88483ae83e091744a59c))
+* test ([bc351cf](https://www.github.com/davidacevedo/react-gears/commit/bc351cf1de727b0d64c56e8da58741ba36c0b3f5))
+
+
+### Bug Fixes
+
+* **List:** fix select behavior and add better tests ([b07cf48](https://www.github.com/davidacevedo/react-gears/commit/b07cf48bf4933347d854644c3d5d6cba982b450b))
+* **List:** prevent Item type from being a weak type ([c66642f](https://www.github.com/davidacevedo/react-gears/commit/c66642f659ed7eede8c54047e00a3e462a9ae534))
+
+
+### Miscellaneous
+
+* **List:** convert List and SortableList to ts ([1423980](https://www.github.com/davidacevedo/react-gears/commit/1423980a4ff70ed4c28b214186b62cda778f22d3))
+* update eslint to use @typescript-eslint/no-unused-vars ([1249773](https://www.github.com/davidacevedo/react-gears/commit/12497736ce58c4d72ae737364011f48e62cbd8c4))
+* update use-deep-compare-effect, react-use, and add @types/lodash.uniqueid ([1fa4265](https://www.github.com/davidacevedo/react-gears/commit/1fa4265c78d4ad2fb8d1e0d5744d5b03c2cb8fe0))
+
 ## [v4.9.0](https://github.com/appfolio/react-gears/tree/v4.9.0) (2018-10-18)
 [Full Changelog](https://github.com/appfolio/react-gears/compare/v4.8.3...v4.9.0)
 
