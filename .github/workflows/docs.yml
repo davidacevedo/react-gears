@@ -25,4 +25,4 @@ jobs:
         run: npm run docs
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'chore(docs): update storybook for '
+          commit_message: 'chore(docs): update storybook for ${GITHUB_REF##*/}'
