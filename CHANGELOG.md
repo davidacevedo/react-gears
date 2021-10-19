@@ -1,5 +1,29 @@
 # Change Log
 
+## [6.9.0](https://www.github.com/davidacevedo/react-gears/compare/v6.8.0...v6.9.0) (2021-10-19)
+
+
+### Features
+
+* add version ([40bac0d](https://www.github.com/davidacevedo/react-gears/commit/40bac0de281684a0f2218fe520e8fccf6db16dbd))
+* dalskfjlkasdjfklasdj ([1914e17](https://www.github.com/davidacevedo/react-gears/commit/1914e17aa7e9210f8bdbd7d5700f0052b448c826))
+* final test ([ec434a7](https://www.github.com/davidacevedo/react-gears/commit/ec434a76b8ec8713909af07daf1d9509ea48cfbc))
+* hopefully not broken ([4e3e1a5](https://www.github.com/davidacevedo/react-gears/commit/4e3e1a5bef27f4d6bf8352b0056f782f207e08da))
+* remove PAT ([e0b13cf](https://www.github.com/davidacevedo/react-gears/commit/e0b13cf49324fc59bb4b5423d761d745f89d346f))
+* remove some post publish stuff ([2ad9bf6](https://www.github.com/davidacevedo/react-gears/commit/2ad9bf644611be1b296aac40f48d8c9ce828ef9c))
+* stub ([b33612f](https://www.github.com/davidacevedo/react-gears/commit/b33612ff730d4fb426c6f9542ea0868c04afbeb0))
+* testing publish ([2239fed](https://www.github.com/davidacevedo/react-gears/commit/2239fed3bacefbb36a3c612a8197f808a74cd6a4))
+
+
+### Bug Fixes
+
+* bad syntax ([f625712](https://www.github.com/davidacevedo/react-gears/commit/f625712605c6bbe377dedff95870478eae366d60))
+* remove test action ([20ab6d2](https://www.github.com/davidacevedo/react-gears/commit/20ab6d2814e69dc122b888f7da10a3f55d6b1686))
+* stuff ([4353072](https://www.github.com/davidacevedo/react-gears/commit/43530729f46424eb9f99726aff8f8c6e1076cfce))
+* try again ([0fc2a8d](https://www.github.com/davidacevedo/react-gears/commit/0fc2a8d97d1ccc23c794a6e07bd1c5cac4fcd795))
+* update docs ([b4d9b67](https://www.github.com/davidacevedo/react-gears/commit/b4d9b67f33346f8c68c80d41230c8ec44abfa88d))
+* workflow CI ([c8961f8](https://www.github.com/davidacevedo/react-gears/commit/c8961f82290645e956e5804380f0a416735b9d21))
+
 ## [6.8.0](https://www.github.com/davidacevedo/react-gears/compare/v6.7.8...v6.8.0) (2021-10-18)
 
 
