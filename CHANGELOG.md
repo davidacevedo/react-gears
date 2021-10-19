@@ -1,5 +1,12 @@
 # Change Log
 
+## [6.10.0](https://www.github.com/davidacevedo/react-gears/compare/v6.9.0...v6.10.0) (2021-10-19)
+
+
+### Features
+
+* separate release please commands ([1641902](https://www.github.com/davidacevedo/react-gears/commit/1641902a9d5ccab532bad2f6dd97eb36ef87a334))
+
 ## [6.9.0](https://www.github.com/davidacevedo/react-gears/compare/v6.8.0...v6.9.0) (2021-10-19)
 
 
